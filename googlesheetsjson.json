@@ -1,0 +1,37 @@
+[{
+	"Category": "Food",
+	"Amount": 0.00,
+	"Date": "4/17/2023"
+}, {
+	"Category": "Fuel",
+	"Amount": 0.00,
+	"Date": "4/17/2023"
+}, {
+	"Category": "Electricity",
+	"Amount": 0.00,
+	"Date": "4/17/2023"
+}, {
+	"Category": "Water",
+	"Amount": 0.00,
+	"Date": "4/17/2023"
+}, {
+	"Category": "Internet",
+	"Amount": 0.00,
+	"Date": "4/17/2023"
+}, {
+	"Category": "Rent/Mortgage",
+	"Amount": 0.00,
+	"Date": "4/17/2023"
+}, {
+	"Category": "Insurance",
+	"Amount": 0.00,
+	"Date": "4/17/2023"
+}, {
+	"Category": "Phone",
+	"Amount": 0.00,
+	"Date": "4/17/2023"
+}, {
+	"Category": "Other",
+	"Amount": 0.00,
+	"Date": "4/17/2023"
+}]
